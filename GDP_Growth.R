@@ -57,7 +57,10 @@ ggplot(gdp_growth,
        aes(x = Year, y = GDP_annual_growth, col = Country.Name)
       ) + geom_point() + geom_line()
 
+# 정제한 데이터 저
+write.csv(gdp_growth, 'Output/GDP/gdp_growth.csv')
 #### 여기까지 실행 ####
+
 
 ##############################################################
 # 아래는 삭제할 예정

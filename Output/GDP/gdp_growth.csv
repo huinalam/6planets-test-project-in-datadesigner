@@ -1,0 +1,157 @@
+"","Series.Name","Series.Code","Country.Name","Year","GDP_annual_growth"
+"1","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Hungary",2000,4.2404035428695
+"2","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Egypt, Arab Rep.",2000,5.36800596653157
+"3","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Iraq",2000,1.40647481153238
+"4","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Jordan",2000,4.23981747754981
+"5","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Lebanon",2000,1.34406652959834
+"6","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Turkey",2000,6.77445533483711
+"7","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Italy",2000,3.71014788223059
+"8","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","France",2000,3.87515826063229
+"9","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United Kingdom",2000,3.76886454583867
+"10","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United States",2000,4.09217643509152
+"11","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Sweden",2000,4.73528881968012
+"12","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Germany",2000,2.98490820840533
+"13","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Hungary",2001,3.7351114321186
+"14","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Egypt, Arab Rep.",2001,3.53522567762784
+"15","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Iraq",2001,2.30531698403628
+"16","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Jordan",2001,5.27137063965377
+"17","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Lebanon",2001,3.95351612589158
+"18","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Turkey",2001,-5.69747649340971
+"19","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Italy",2001,1.77280301974621
+"20","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","France",2001,1.95445242943187
+"21","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United Kingdom",2001,2.66453504095657
+"22","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United States",2001,0.97598189708053
+"23","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Sweden",2001,1.56340781826476
+"24","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Germany",2001,1.69528644065026
+"25","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Hungary",2002,4.49114713256648
+"26","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Egypt, Arab Rep.",2002,2.37048910032468
+"27","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Iraq",2002,-6.90018022342163
+"28","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Jordan",2002,5.79238550921852
+"29","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Lebanon",2002,3.37387654804373
+"30","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Turkey",2002,6.16383960696356
+"31","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Italy",2002,0.250778375983245
+"32","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","France",2002,1.11845605715699
+"33","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United Kingdom",2002,2.45228167821077
+"34","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United States",2002,1.78612740352968
+"35","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Sweden",2002,2.07357794282623
+"36","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Germany",2002,0.0107564524735437
+"37","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Hungary",2003,3.7783471487943
+"38","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Egypt, Arab Rep.",2003,3.19345473739774
+"39","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Iraq",2003,-33.1008380241369
+"40","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Jordan",2003,4.1637517284103
+"41","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Lebanon",2003,3.23739038013611
+"42","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Turkey",2003,5.265265303776
+"43","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Italy",2003,0.152649956944884
+"44","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","France",2003,0.819533268266028
+"45","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United Kingdom",2003,4.30044405314594
+"46","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United States",2003,2.80677549973881
+"47","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Sweden",2003,2.38574281462873
+"48","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Germany",2003,-0.720507949321288
+"49","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Hungary",2004,4.78935306407284
+"50","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Egypt, Arab Rep.",2004,4.0920716112532
+"51","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Iraq",2004,54.1577746161598
+"52","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Jordan",2004,8.56273739355717
+"53","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Lebanon",2004,7.47880231666709
+"54","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Turkey",2004,9.3628076142882
+"55","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Italy",2004,1.583269711453
+"56","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","France",2004,2.78642055393166
+"57","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United Kingdom",2004,2.4538887550212
+"58","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United States",2004,3.7857433562708
+"59","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Sweden",2004,4.32052662980624
+"60","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Germany",2004,1.18067559045643
+"61","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Hungary",2005,4.25965782506286
+"62","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Egypt, Arab Rep.",2005,4.47174447174447
+"63","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Iraq",2005,4.40061719196881
+"64","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Jordan",2005,8.16378021946709
+"65","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Lebanon",2005,2.70234094412247
+"66","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Turkey",2005,8.40161787152765
+"67","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Italy",2005,0.949620808007751
+"68","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","France",2005,1.60771549302947
+"69","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United Kingdom",2005,2.80654761143673
+"70","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United States",2005,3.34521588773282
+"71","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Sweden",2005,2.81833114825152
+"72","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Germany",2005,0.706561393039507
+"73","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Hungary",2006,3.96294438747408
+"74","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Egypt, Arab Rep.",2006,6.84383819379116
+"75","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Iraq",2006,10.1581995819406
+"76","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Jordan",2006,8.09333116140294
+"77","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Lebanon",2006,1.60277316478468
+"78","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Turkey",2006,6.89348933743628
+"79","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Italy",2006,2.00640173096063
+"80","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","France",2006,2.37494483565823
+"81","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United Kingdom",2006,3.0420982014985
+"82","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United States",2006,2.66662598560563
+"83","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Sweden",2006,4.68812857885801
+"84","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Germany",2006,3.71000339452176
+"85","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Hungary",2007,0.511279220178153
+"86","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Egypt, Arab Rep.",2007,7.08782742681046
+"87","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Iraq",2007,1.37759814759862
+"88","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Jordan",2007,8.17571902230382
+"89","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Lebanon",2007,9.40408660047234
+"90","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Turkey",2007,4.66857941161562
+"91","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Italy",2007,1.47412407839703
+"92","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","France",2007,2.36150207696927
+"93","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United Kingdom",2007,2.55563513670592
+"94","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United States",2007,1.77857037209128
+"95","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Sweden",2007,3.40494860714055
+"96","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Germany",2007,3.26978335333274
+"97","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Hungary",2008,0.878582395860093
+"98","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Egypt, Arab Rep.",2008,7.15220293936281
+"99","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Iraq",2008,6.60886486664769
+"100","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Jordan",2008,7.23240848035714
+"101","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Lebanon",2008,9.09807667369154
+"102","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Turkey",2008,0.658838444866916
+"103","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Italy",2008,-1.04982465110584
+"104","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","France",2008,0.195293167550275
+"105","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United Kingdom",2008,-0.332043633661954
+"106","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United States",2008,-0.291621579070096
+"107","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Sweden",2008,-0.55704798723167
+"108","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Germany",2008,1.05210893955538
+"109","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Hungary",2009,-6.55102970714437
+"110","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Egypt, Arab Rep.",2009,4.68504060211687
+"111","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Iraq",2009,5.80974000611023
+"112","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Jordan",2009,5.47658104974045
+"113","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Lebanon",2009,10.3009126528882
+"114","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Turkey",2009,-4.82587521309331
+"115","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Italy",2009,-5.48137853183734
+"116","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","France",2009,-2.9413386637227
+"117","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United Kingdom",2009,-4.31061579366823
+"118","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United States",2009,-2.77552944407304
+"119","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Sweden",2009,-5.18466092221331
+"120","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Germany",2009,-5.63795389304047
+"121","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Hungary",2010,0.789116879525054
+"122","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Egypt, Arab Rep.",2010,5.13898583215664
+"123","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Iraq",2010,5.5378902509448
+"124","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Jordan",2010,2.33683030118537
+"125","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Lebanon",2010,7.9960862787684
+"126","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Turkey",2010,9.1569529029472
+"127","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Italy",2010,1.71058241806377
+"128","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","France",2010,1.96565781885573
+"129","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United Kingdom",2010,1.91137766469444
+"130","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United States",2010,2.53192038046484
+"131","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Sweden",2010,5.98892713335566
+"132","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Germany",2010,4.09076951228067
+"133","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Hungary",2011,1.80660543452437
+"134","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Egypt, Arab Rep.",2011,1.82184437597419
+"135","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Iraq",2011,10.2140893066166
+"136","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Jordan",2011,2.56080879892619
+"137","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Lebanon",2011,2.00458630323604
+"138","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Turkey",2011,8.77274761512783
+"139","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Italy",2011,0.586820837229894
+"140","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","France",2011,2.07922832718323
+"141","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United Kingdom",2011,1.64512072814837
+"142","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United States",2011,1.6014542734504
+"143","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Sweden",2011,2.66440816266315
+"144","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Germany",2011,3.58999724236229
+"145","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Hungary",2012,-1.47794468745423
+"146","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Egypt, Arab Rep.",2012,2.19184690487997
+"147","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Iraq",2012,12.6164171788394
+"148","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Jordan",2012,2.65120334919015
+"149","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Lebanon",2012,2.20000000000009
+"150","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Turkey",2012,2.12746061865543
+"151","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Italy",2012,-2.77041589229687
+"152","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","France",2012,0.182689429087816
+"153","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United Kingdom",2012,0.659035022954569
+"154","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","United States",2012,2.32108474142517
+"155","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Sweden",2012,-0.286319955652033
+"156","GDP growth (annual %)","NY.GDP.MKTP.KD.ZG","Germany",2012,0.376483651233798
